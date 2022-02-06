@@ -1,0 +1,38 @@
+html {
+    margin: 10px;
+    font-family: helvetica, arial, sans-serif;
+    letter-spacing: 1px;
+    background-color:blanchedalmond;
+}
+
+h3 {
+    font-family: cursive;
+}
+
+img{
+    float:left;
+    width:50%;
+    height:50%;
+}
+
+.container{
+    display: inline-block;
+}
+
+ul.a {
+    list-style-type: square;
+}
+
+ul.nav li {
+    background-color:lightskyblue;
+}
+
+a:link {
+    color: violet;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: fuchsia;
+    font-size: large;
+  }
